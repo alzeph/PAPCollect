@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/PAPCollect/static/js/main.1e30cb1f.js",
+    "index.html": "/PAPCollect/index.html",
+    "main.1e30cb1f.js.map": "/PAPCollect/static/js/main.1e30cb1f.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.1e30cb1f.js"
+  ]
+}
