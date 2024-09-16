@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/static/js/main.f72069f5.js",
-    "index.html": "/index.html",
-    "main.f72069f5.js.map": "/static/js/main.f72069f5.js.map"
+    "main.js": "/PAPCollect/static/js/main.1e30cb1f.js",
+    "index.html": "/PAPCollect/index.html",
+    "main.1e30cb1f.js.map": "/PAPCollect/static/js/main.1e30cb1f.js.map"
   },
   "entrypoints": [
-    "static/js/main.f72069f5.js"
+    "static/js/main.1e30cb1f.js"
   ]
 }
